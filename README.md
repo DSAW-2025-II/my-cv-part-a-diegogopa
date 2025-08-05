@@ -2,7 +2,7 @@
 
 Nombre: Diego Alejandro Gómez Papagayo
 ID-Universitario: 0000336260
-Gmail: diegogopa@unisabana.edu.co
+Correo: diegogopa@unisabana.edu.co
 
 
 # Bienvenidos a la Tarea de HTML y CSS
@@ -89,5 +89,8 @@ section {
 - Piensa en un diseño limpio y profesional.
 - Utiliza recursos en línea como [Google Fonts](https://fonts.google.com/) para elegir una buena tipografía.
 - Experimenta con combinaciones de colores que sean agradables a la vista.
+  
+## Archivo Desplegado
+https://dsaw-2025-ii.github.io/my-cv-part-a-diegogopa/
 
 ¡Buena suerte y diviértanse creando su CV!
